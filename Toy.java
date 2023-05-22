@@ -1,4 +1,4 @@
-package ToyStore;
+package ToyShop;
 
 
 public class Toy {
